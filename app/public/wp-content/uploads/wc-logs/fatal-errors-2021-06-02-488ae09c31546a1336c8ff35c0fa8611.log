@@ -1,0 +1,46 @@
+2021-06-02T04:39:29+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:40:52+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:40:52+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:40:56+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:40:56+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:28+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:28+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:28+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:29+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:29+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:29+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:29+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:42+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:41:42+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:42:07+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:42:07+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:42:08+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T04:42:08+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+
+2021-06-02T07:45:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+
+2021-06-02T07:45:31+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+
+2021-06-02T07:45:32+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+
+2021-06-02T07:45:33+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+
+2021-06-02T07:45:33+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+

@@ -1,0 +1,67 @@
+[02-Jun-2021 04:39:29 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:40:52 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:40:52 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:40:56 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:40:56 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:28 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:28 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:28 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:29 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:29 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:29 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:29 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:42 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:41:42 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:42:07 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:42:07 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:42:08 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 04:42:08 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/functions.php on line 148
+[02-Jun-2021 07:45:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+[02-Jun-2021 07:45:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+[02-Jun-2021 07:45:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+[02-Jun-2021 07:45:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+[02-Jun-2021 07:45:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 205
+[02-Jun-2021 07:45:52 UTC] PHP Warning:  Use of undefined constant get_category_id - assumed 'get_category_id' (this will throw an Error in a future version of PHP) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 208
+[02-Jun-2021 07:45:52 UTC] PHP Stack trace:
+[02-Jun-2021 07:45:52 UTC] PHP   1. {main}() /Users/Christopher/Website/alterego/app/public/index.php:0
+[02-Jun-2021 07:45:52 UTC] PHP   2. require() /Users/Christopher/Website/alterego/app/public/index.php:17
+[02-Jun-2021 07:45:52 UTC] PHP   3. require_once() /Users/Christopher/Website/alterego/app/public/wp-blog-header.php:19
+[02-Jun-2021 07:45:52 UTC] PHP   4. include() /Users/Christopher/Website/alterego/app/public/wp-includes/template-loader.php:106
+[02-Jun-2021 07:45:52 UTC] PHP   5. get_header() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/index.php:15
+[02-Jun-2021 07:45:52 UTC] PHP   6. locate_template() /Users/Christopher/Website/alterego/app/public/wp-includes/general-template.php:48
+[02-Jun-2021 07:45:52 UTC] PHP   7. load_template() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:676
+[02-Jun-2021 07:45:52 UTC] PHP   8. require_once() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:730
+[02-Jun-2021 07:45:52 UTC] PHP   9. category_header_background() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/header.php:29
+[02-Jun-2021 07:45:52 UTC] PHP Warning:  Use of undefined constant get_category_id - assumed 'get_category_id' (this will throw an Error in a future version of PHP) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 208
+[02-Jun-2021 07:45:52 UTC] PHP Stack trace:
+[02-Jun-2021 07:45:52 UTC] PHP   1. {main}() /Users/Christopher/Website/alterego/app/public/index.php:0
+[02-Jun-2021 07:45:52 UTC] PHP   2. require() /Users/Christopher/Website/alterego/app/public/index.php:17
+[02-Jun-2021 07:45:52 UTC] PHP   3. require_once() /Users/Christopher/Website/alterego/app/public/wp-blog-header.php:19
+[02-Jun-2021 07:45:52 UTC] PHP   4. include() /Users/Christopher/Website/alterego/app/public/wp-includes/template-loader.php:106
+[02-Jun-2021 07:45:52 UTC] PHP   5. get_header() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/404.php:10
+[02-Jun-2021 07:45:52 UTC] PHP   6. locate_template() /Users/Christopher/Website/alterego/app/public/wp-includes/general-template.php:48
+[02-Jun-2021 07:45:52 UTC] PHP   7. load_template() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:676
+[02-Jun-2021 07:45:52 UTC] PHP   8. require_once() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:730
+[02-Jun-2021 07:45:52 UTC] PHP   9. category_header_background() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/header.php:29
+[02-Jun-2021 07:45:54 UTC] PHP Warning:  Use of undefined constant get_category_id - assumed 'get_category_id' (this will throw an Error in a future version of PHP) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 208
+[02-Jun-2021 07:45:54 UTC] PHP Stack trace:
+[02-Jun-2021 07:45:54 UTC] PHP   1. {main}() /Users/Christopher/Website/alterego/app/public/index.php:0
+[02-Jun-2021 07:45:54 UTC] PHP   2. require() /Users/Christopher/Website/alterego/app/public/index.php:17
+[02-Jun-2021 07:45:54 UTC] PHP   3. require_once() /Users/Christopher/Website/alterego/app/public/wp-blog-header.php:19
+[02-Jun-2021 07:45:54 UTC] PHP   4. include() /Users/Christopher/Website/alterego/app/public/wp-includes/template-loader.php:106
+[02-Jun-2021 07:45:54 UTC] PHP   5. get_header() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/index.php:15
+[02-Jun-2021 07:45:54 UTC] PHP   6. locate_template() /Users/Christopher/Website/alterego/app/public/wp-includes/general-template.php:48
+[02-Jun-2021 07:45:54 UTC] PHP   7. load_template() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:676
+[02-Jun-2021 07:45:54 UTC] PHP   8. require_once() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:730
+[02-Jun-2021 07:45:54 UTC] PHP   9. category_header_background() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/header.php:29
+[02-Jun-2021 07:45:55 UTC] PHP Warning:  Use of undefined constant get_category_id - assumed 'get_category_id' (this will throw an Error in a future version of PHP) in /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/inc/woocommerce.php on line 208
+[02-Jun-2021 07:45:55 UTC] PHP Stack trace:
+[02-Jun-2021 07:45:55 UTC] PHP   1. {main}() /Users/Christopher/Website/alterego/app/public/index.php:0
+[02-Jun-2021 07:45:55 UTC] PHP   2. require() /Users/Christopher/Website/alterego/app/public/index.php:17
+[02-Jun-2021 07:45:55 UTC] PHP   3. require_once() /Users/Christopher/Website/alterego/app/public/wp-blog-header.php:19
+[02-Jun-2021 07:45:55 UTC] PHP   4. include() /Users/Christopher/Website/alterego/app/public/wp-includes/template-loader.php:106
+[02-Jun-2021 07:45:55 UTC] PHP   5. get_header() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/404.php:10
+[02-Jun-2021 07:45:55 UTC] PHP   6. locate_template() /Users/Christopher/Website/alterego/app/public/wp-includes/general-template.php:48
+[02-Jun-2021 07:45:55 UTC] PHP   7. load_template() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:676
+[02-Jun-2021 07:45:55 UTC] PHP   8. require_once() /Users/Christopher/Website/alterego/app/public/wp-includes/template.php:730
+[02-Jun-2021 07:45:55 UTC] PHP   9. category_header_background() /Users/Christopher/Website/alterego/app/public/wp-content/themes/alterego/header.php:29
